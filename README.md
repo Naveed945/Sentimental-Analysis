@@ -15,7 +15,7 @@ Requirements:
     
     
 API:
-    For this project we have used emotional api from RapidApi.com
+    For this project we have used emotion api from RapidApi.com(https://rapidapi.com/twinword/api/emotion-analysis/)
 
 A few resources to get you started if this is your first Flutter project:
 
