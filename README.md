@@ -8,11 +8,11 @@ This project is a starting point for a Flutter application.
 
 
 Requirements:
+
     *Install flutter package globally.
-    
     *Add dart extension in vs code to run the application.
-    
     *if you are using android emulater to runh the app then install android studios or xcode for macos emulator.
+    
     
 API:
     For this project we have used emotional api from RapidApi.com
