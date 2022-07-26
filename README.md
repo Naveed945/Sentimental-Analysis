@@ -1,7 +1,3 @@
-# Sentimental-Analy[README.md](https://github.com/Naveed945/Sentimental-Analysis/files/9185800/README.md)
-sis
-Sentimental Analysis project
-
 # sentiment_analysis
 
 A new Flutter project.
@@ -13,7 +9,9 @@ This project is a starting point for a Flutter application.
 
 Requirements:
     *Install flutter package globally.
+    
     *Add dart extension in vs code to run the application.
+    
     *if you are using android emulater to runh the app then install android studios or xcode for macos emulator.
     
 API:
